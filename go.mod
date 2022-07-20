@@ -1,4 +1,4 @@
-module github.com/elastic/gobench
+module github.com/KrasimirDimov/gobench
 
 go 1.17
 
